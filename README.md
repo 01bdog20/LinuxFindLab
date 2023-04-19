@@ -18,15 +18,15 @@ Use the find command to search for all files with a particular extension in a di
 example, to search for all files with the .txt extension in the current directory. Then, 
 run the provided program and screenshot the output.
 
+Provided program: [find.c](find.c) 
+
 1. Use the find command to search for all files with a particular extension in a
 directory. Take a screenshot of the terminal output.
-__Usage: find . -name "*.txt"__
+### __Usage: find . -name "*.txt"__
 
-2. Download the provided C program: [find.c](find.c) that reads a directory and prints out the
+2. Download the provided C program that reads a directory and prints out the
 names of all the files with a particular extension
 
 3. Compile and run the program with an existing directory in your virtual machine.
 Take a screenshot of the terminal output.
-__Usage: 
-gcc find.c -o  find
-./find /home/student .c__
+### __Usage: ./find /home/student .c__
