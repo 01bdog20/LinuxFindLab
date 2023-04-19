@@ -20,11 +20,12 @@ run the provided program and screenshot the output.
 
 1. Use the find command to search for all files with a particular extension in a
 directory. Take a screenshot of the terminal output.
-Usage: find . -name "*.txt"
+__Usage: find . -name "*.txt"__
 
 2. Download the provided C program that reads a directory and prints out the
-names of all the files with a particular extension.
-[find.c](find.c)
+names of all the files with a particular extension. 
+
+File: [find.c](find.c)
 
 3. Compile and run the program with an existing directory in your virtual machine.
 Take a screenshot of the terminal output.
